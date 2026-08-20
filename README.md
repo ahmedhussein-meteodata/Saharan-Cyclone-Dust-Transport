@@ -44,7 +44,7 @@ Below is the composite 12-frame panel visualization illustrating the continuous 
   * `xarray` & `netCDF4` — Multi-dimensional atmospheric dataset processing.
   * `cartopy` & `matplotlib` — Geospatial mapping, contours, and custom colormapping.
   * `pandas` — Datetime range indexing and filtering.
-  * `Pillow (PIL)` — Image processing and automated panel stitching.
+  * `Pillow ` — Image processing and automated panel layout creation.
 * **Data Sources:**
   * **MSLP & Wind Fields:** ECMWF / ERA5 Reanalysis Dataset.
   * **Dust Aerosol Concentrations:** Copernicus Atmosphere Monitoring Service (CAMS) Global Reanalysis (`aermr04`, `aermr05`, `aermr06` at 1000 hPa).
