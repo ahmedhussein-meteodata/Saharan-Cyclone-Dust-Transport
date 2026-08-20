@@ -5,7 +5,7 @@
 [![Cartopy](https://img.shields.io/badge/Library-Cartopy-green.svg)](https://scitools.org.uk/cartopy/)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-An end-to-end meteorological data visualization and synoptic analysis project tracking the 12-hour continuous life cycle of a severe Saharan cyclone and its associated transboundary dust transport over North Africa and the Eastern Mediterranean (11–16 March 2026).
+An end-to-end meteorological data visualization and synoptic analysis project tracking the multi-day continuous life cycle of a severe Saharan cyclone and its associated transboundary dust transport over North Africa and the Eastern Mediterranean at 12-hour intervals (11–16 March 2026).
 
 ---
 
