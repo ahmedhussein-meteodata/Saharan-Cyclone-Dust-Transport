@@ -53,7 +53,8 @@ Below is the composite 12-frame panel visualization illustrating the continuous 
 
 ## 🚀 How to Reproduce
 
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/saharan-cyclone-dust-transport.git](https://github.com/your-username/saharan-cyclone-dust-transport.git)
-   cd saharan-cyclone-dust-transport
+**Clone the Repository:** 
+```bash
+git clone https://github.com/ahmedhussein-meteodata/Saharan-Cyclone-Dust-Transport.git
+
+cd Saharan-Cyclone-Dust-Transport
