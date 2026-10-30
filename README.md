@@ -53,16 +53,17 @@ Below is the composite 12-frame panel visualization illustrating the continuous 
 
 ## 🚀 How to Reproduce
 
-* **Clone the repository:**
+**1. Clone the repository:**
 
 git clone https://github.com/ahmedhussein-meteodata/Saharan-Cyclone-Dust-Transport.git
+
 cd Saharan-Cyclone-Dust-Transport
 
-* **Install the required libraries:**
+**2. Install the required libraries:**
 
 pip install -r requirements.txt
 
-* **Run the main script to generate the dust map:**
+**3. Run the main script to generate the dust map:**
 
 python plot_dust_map.py
 
@@ -73,7 +74,7 @@ python plot_dust_map.py
 * **Name:** Ahmed
 * **Role:** Meteorological Specialist & Data Analyst
 * **Specialization:** Atmospheric Science, Synoptic Analysis & Climate Data Analytics
-* **Tools Used:** Microsoft Excel (Data Cleaning, Pivot Tables, Advanced Charting, Dynamic Slicers, KPI Logic)
+* **Tools Used:** Python (xarray, cartopy, matplotlib), Microsoft Excel (Data Cleaning, Pivot Tables, Advanced Charting)
 * **GitHub Profile:** [github.com/ahmedhussein-meteodata](https://github.com/ahmedhussein-meteodata)
 * **Kaggle Profile:** [kaggle.com/ahmedhussein77731](https://www.kaggle.com/ahmedhussein77731)
 * **LinkedIn Profile:** [linkedin.com/in/ahmed-hussein-meteodata](https://www.linkedin.com/in/ahmed-hussein-meteodata)
