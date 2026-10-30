@@ -65,3 +65,15 @@ pip install -r requirements.txt
 
 # 3. Run the main script to generate the dust map
 python plot_dust_map.py
+
+---
+
+## 👤 Author & Contact
+
+* **Name:** Ahmed
+* **Role:** Meteorological Specialist & Data Analyst
+* **Specialization:** Atmospheric Science, Synoptic Analysis & Climate Data Analytics
+* **Tools Used:** Microsoft Excel (Data Cleaning, Pivot Tables, Advanced Charting, Dynamic Slicers, KPI Logic)
+* **GitHub Profile:** [github.com/ahmedhussein-meteodata](https://github.com/ahmedhussein-meteodata)
+* **Kaggle Profile:** [kaggle.com/ahmedhussein77731](https://www.kaggle.com/ahmedhussein77731)
+* **LinkedIn Profile:** [linkedin.com/in/ahmed-hussein-meteodata](https://www.linkedin.com/in/ahmed-hussein-meteodata)
