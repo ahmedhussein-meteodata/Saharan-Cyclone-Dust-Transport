@@ -59,9 +59,11 @@ git clone https://github.com/ahmedhussein-meteodata/Saharan-Cyclone-Dust-Transpo
 
 cd Saharan-Cyclone-Dust-Transport
 
+
 **2. Install the required libraries:**
 
 pip install -r requirements.txt
+
 
 **3. Run the main script to generate the dust map:**
 
