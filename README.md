@@ -53,14 +53,17 @@ Below is the composite 12-frame panel visualization illustrating the continuous 
 
 ## 🚀 How to Reproduce
 
-* **'Clone the repository'**
+* **Clone the repository:**
+
 git clone https://github.com/ahmedhussein-meteodata/Saharan-Cyclone-Dust-Transport.git
 cd Saharan-Cyclone-Dust-Transport
 
-* **'Install the required libraries'**
+* **Install the required libraries:**
+
 pip install -r requirements.txt
 
-* **'Run the main script to generate the dust map'**
+* **Run the main script to generate the dust map:**
+
 python plot_dust_map.py
 
 ---
