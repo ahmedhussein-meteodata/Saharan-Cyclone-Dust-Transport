@@ -58,3 +58,9 @@ Below is the composite 12-frame panel visualization illustrating the continuous 
 git clone https://github.com/ahmedhussein-meteodata/Saharan-Cyclone-Dust-Transport.git
 
 cd Saharan-Cyclone-Dust-Transport
+
+**Install the required libraries:**
+pip install -r requirements.txt
+
+**Run the main script to generate the dust map:**
+python plot_dust_map.py
